@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fb94bb2-d9b8-4bde-bfb9-043c37392c6f": {
+      "ProjectGuid": "8fb94bb2-d9b8-4bde-bfb9-043c37392c6f",
+      "DisplayName": "CSharp_Net_module1_3_1_lab",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
